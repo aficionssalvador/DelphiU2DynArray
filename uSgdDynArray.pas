@@ -1,7 +1,5 @@
 unit uSgdDynArray;
 
-{.$DEFINE SRIGAU}
-
 interface
 
 uses SysUtils, Classes;
